@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+
+.active{
+    background-color: rgb(88, 164, 139);
+    color: white;
+}
+.bg-primary{
+    background-color: #5F6FFF;
+}
+
+::-webkit-scrollbar{
+@apply hidden
+}
